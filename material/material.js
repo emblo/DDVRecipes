@@ -17,3 +17,12 @@ let flowers = [
         "sellPrice": "",
     },
 ]
+
+//Array of objects containing Gems in DDV
+let gems = [
+    {
+        "Gem": "",
+        "Location": "",
+        "sellPrice": "",
+    },
+]
