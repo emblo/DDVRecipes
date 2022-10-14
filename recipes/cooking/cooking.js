@@ -1004,7 +1004,7 @@ let cookingRecipes = [
         "sellPrice": "2550",
     },
     {
-        "Recipe": "Pan-Seared Bass & Vegetables",
+        "Recipe": "Pan-Seared Bass and Vegetables",
         "Stars": "3",
         "Ingredient1": "Bass",
         "Ingredient2": "Vegetable",
@@ -1015,7 +1015,7 @@ let cookingRecipes = [
         "sellPrice": "79",
     },
     {
-        "Recipe": "Pan-Seared Tilapia & Vegetables",
+        "Recipe": "Pan-Seared Tilapia and Vegetables",
         "Stars": "3",
         "Ingredient1": "Tilapia",
         "Ingredient2": "Vegetable",
@@ -1796,7 +1796,6 @@ let cookingRecipes = [
         "sellPrice": "632",
     },
 ]
-
 
 /*{
         "Recipe": "",
