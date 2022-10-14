@@ -65,3 +65,13 @@ let shellfish = [
         "sellPrice": "",
     },
 ]
+
+//Array of objects containing Fish in DDV
+let fish = [
+    {
+        "Fish": "",
+        "Location": "",
+        "Energy": "",
+        "sellPrice": "",
+    },
+]
